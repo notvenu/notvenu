@@ -73,8 +73,7 @@ I’m passionate about building web applications, solving problems with code, an
 
 ---
 
-## 🖥️ Projects I’m Proud Of  
-- 🪙 **[Coin Tosser](https://github.com/notvenu/coin-tosser)** – A simple app to simulate coin tosses and track outcomes.  
+## 🖥️ Projects I’m Proud Of   
 - 💸 **[Currency Converter](https://github.com/notvenu/currency-converter)** – Real-time currency conversion using an API.  
 - ☀️ **[Weather App](https://github.com/notvenu/weather-app)** – A sleek weather app with real-time data.  
 - 🎲 **[Number Guessing Game](https://github.com/notvenu/number-guessing-game)** – A fun game where you guess a random number with hints.  
