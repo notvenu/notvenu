@@ -77,7 +77,7 @@ I’m passionate about building web applications, solving problems with code, an
 - 💸 **[Currency Converter](https://github.com/notvenu/currency-converter)** – Real-time currency conversion using an API.  
 - ☀️ **[Weather App](https://github.com/notvenu/weather-app)** – A sleek weather app with real-time data.  
 - 🎲 **[Number Guessing Game](https://github.com/notvenu/number-guessing-game)** – A fun game where you guess a random number with hints.  
-- 📹 **[YouTube Clone](https://github.com/notvenu/youtube-clone)** – A video platform clone with a responsive UI built using React.  
+- 📹 **[YouTube Clone](https://github.com/notvenu/youtube-clone)** – A video platform clone with a responsive UI built using MERN Stack.  
 - 🚧 More projects in the works... stay tuned!  
 
 ---
