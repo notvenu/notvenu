@@ -1,25 +1,33 @@
-# 🚀 Hey, I'm Venu!  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:8e2de2&height=200&section=header&text=Venu%20Bhargava%20Jishith&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-### Aspiring Full Stack Developer | Code Explorer | Tech Explorer 🌟  
+# 🚀 Hey, I'm Venu!
 
-I’m passionate about building web applications, solving problems with code, and diving deep into tech concepts like DSA, DBMS, and more. Currently, I’m sharpening my skills in the MERN stack while working on fun projects to bring ideas to life!  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F700FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver;Tech+Explorer;Building+Scalable+Web+Apps" />
+</p>
 
----
-
-## 🔍 A Bit About Me  
-- 🎓 Learning **Full Stack Web Development (MERN)**  
-- 💻 Exploring **DSA**, **OOP**, **DBMS**, **OS**, **DAA**, and **FLAT**  
-- 🛠️ Crafting mini-projects to solidify my knowledge  
-- ⚡ I enjoy debugging challenges and designing intuitive solutions  
+<p align="center">
+Aspiring Full Stack Developer | Code Explorer | Tech Enthusiast 🌟  
+</p>
 
 ---
 
-## 🧰 Tech I Work With
+## 🔍 About Me  
+
+- 🎓 Learning **Full Stack Web Development (MERN Stack)**  
+- 💻 Strong foundation in **DSA, OOP, DBMS, OS, DAA & FLAT**  
+- 🛠️ Building real-world projects to sharpen development skills  
+- ⚡ I enjoy debugging complex issues & designing clean architectures  
+- 🎯 Goal: Become a high-impact Full Stack Engineer  
+
+---
+
+## 🧰 Tech Stack  
 
 <table align="center">
   <tr>
-    <td><strong>Frontend & Styling</strong></td>
-    <td><strong>Backend & Tools</strong></td>
+    <td><strong>Frontend</strong></td>
+    <td><strong>Backend & Database</strong></td>
     <td><strong>Languages</strong></td>
   </tr>
   <tr>
@@ -34,6 +42,7 @@ I’m passionate about building web applications, solving problems with code, an
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Appwrite-F02E65?style=flat-square&logo=appwrite&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
     </td>
@@ -48,53 +57,67 @@ I’m passionate about building web applications, solving problems with code, an
 
 ---
 
-## 📖 Core Concepts I Understand  
-- **Data Structures & Algorithms (DSA)**  
-- **Object-Oriented Programming (OOP)**  
-- **Database Management Systems (DBMS)**  
-- **Operating Systems (OS)**  
-- **Design and Analysis of Algorithms (DAA)**  
-- **Formal Languages and Automata Theory (FLAT)**  
+## 📖 Core Computer Science Concepts  
+
+- 📌 Data Structures & Algorithms (DSA)  
+- 📌 Object-Oriented Programming (OOP)  
+- 📌 Database Management Systems (DBMS)  
+- 📌 Operating Systems (OS)  
+- 📌 Design & Analysis of Algorithms (DAA)  
+- 📌 Formal Languages & Automata Theory (FLAT)  
 
 ---
 
-## 📈 My GitHub Insights  
+## 📈 GitHub Insights  
+
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=notvenu&show_icons=true&theme=radical" alt="GitHub Stats" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=notvenu&theme=radical" alt="GitHub Streak" />  
-</p>  
+  <img src="https://github-readme-stats.vercel.app/api?username=notvenu&show_icons=true&theme=radical&count_private=true" />  
+  <img src="https://streak-stats.demolab.com?user=notvenu&theme=radical" />  
+</p>
+
+---
+
+## 🐍 Contribution Graph  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/notvenu/notvenu/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## 🏅 Achievements  
+
 <p align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=notvenu&theme=dracula&title=Stars,Commits,Followers,Repositories,PullRequest" alt="GitHub Trophies" />  
-</p>  
+  <img src="https://github-profile-trophy.vercel.app/?username=notvenu&theme=dracula&no-frame=true&title=Stars,Commits,Followers,Repositories,PullRequest" />  
+</p>
 
 ---
 
-## 🖥️ Projects I’m Proud Of   
+## 🖥️ Featured Projects  
 
-- 📹 **[YouTube Clone](https://github.com/notvenu/youtube-clone)** – A backend of a video platform built using MongoDB,ExpressJS.  
-- 🎟️ **[Slotify](https://slotify.vercel.app)** – A smart slot booking and scheduling platform designed for seamless time management and reservations.  
-- 🎓 **[KnowYourFaculty](https://knowyourfaculty.vercel.app)** – A faculty rating and review platform that helps students make informed academic decisions.  
-- 🚧 More projects in the works... stay tuned!
+| Project | Description | Tech |
+|----------|-------------|------|
+| 🎥 **[YouTube Clone](https://github.com/notvenu/youtube-clone)** | Backend of scalable video platform with REST APIs & authentication | Node.js, Express, MongoDB |
+| 🎟️ **[Slotify](https://slotify.vercel.app)** | Smart slot booking & scheduling platform | MERN Stack |
+| 🎓 **[KnowYourFaculty](https://knowyourfaculty.vercel.app)** | Faculty rating platform with structured database system | React, Appwrite |
 
-
----
-
-## 📬 Contact Me  
-<p align="center">  
-  <a href="mailto:venu.kasibhatla@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>  
-  <a href="https://github.com/notvenu"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>  
-  <a href="https://linkedin.com/in/venu-kasibhatla"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>  
-  <a href="https178://instagram.com/veeennnuuu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>  
-</p>  
+🚧 More advanced projects coming soon...
 
 ---
 
-<p align="center">  
-  <i>“Turning caffeine into code, one line at a time.” ☕</i>  
-</p>  
+## 📬 Connect With Me  
 
-✨ Crafted by [@notvenu](https://github.com/notvenu)
+<p align="center">  
+  <a href="mailto:venu.kasibhatla@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>  
+  <a href="https://github.com/notvenu"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>  
+  <a href="https://linkedin.com/in/venu-kasibhatla"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>  
+  <a href="https://instagram.com/veeennnuuu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>  
+</p>
+
+---
+
+<p align="center">
+<i>"Turning caffeine into scalable systems, one commit at a time." ☕🚀</i>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:8e2de2&height=120&section=footer"/>
