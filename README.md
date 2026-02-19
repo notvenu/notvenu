@@ -98,7 +98,7 @@ Aspiring Full Stack Developer | Code Explorer | Tech Enthusiast 🌟
 | Project | Description | Tech |
 |----------|-------------|------|
 | 🎥 **[YouTube Clone](https://github.com/notvenu/youtube-clone)** | Backend of scalable video platform with REST APIs & authentication | Node.js, Express, MongoDB |
-| 🎟️ **[Slotify](https://slotify.vercel.app)** | Smart slot booking & scheduling platform | MERN Stack |
+| 🎟️ **[Slotify](https://slotify-vitap.vercel.app)** | Smart slot booking & scheduling platform | MERN Stack |
 | 🎓 **[KnowYourFaculty](https://knowyourfaculty.vercel.app)** | Faculty rating platform with structured database system | React, Appwrite |
 
 🚧 More advanced projects coming soon...
